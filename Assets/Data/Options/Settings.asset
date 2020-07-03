@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7dd2e3eeade38f48b5c9b5351d5cfb3, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  xRange: {x: -11, y: 11}
+  zRange: {x: -16.5, y: 16.5}
+  acceleration: 8.37
+  rotatingSmoothless: 11.8
+  rotatingSensitivity: 5.3
+  movingSpeed: 4.7
+  angleChecker: 4
+  angleReflectionRange: 8
+  reflectionRange: 5
